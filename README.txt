@@ -1,4 +1,4 @@
-\Data Science Challenge.pdf                  The given data science challenge
+
 
 \Data Science Challenge.py                   The python code to perform all tasks
 
